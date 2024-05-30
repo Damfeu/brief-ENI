@@ -1,0 +1,83 @@
+.contenu-articles h1{
+    margin: 15px 35px 15px 35px;
+    font-family: Poppins-Black;
+    color: #004080;
+}
+
+.contenu-articles h2{
+    text-align: center;
+    font-family: Poppins-Black;
+}
+
+.contenu-articles p{
+    margin: 0 35px 0 35px;
+    font-family: Poppins-Regular;
+
+}
+
+.detaille-dowload{
+    margin: 15px 35px 15px 35px;
+    font-family: Poppins-Black;
+    text-align: center;
+
+}
+
+.detaille-dowload h2{
+    margin: 15px 35px 15px 35px;
+    text-align: center;
+
+}
+
+.detaille-dowload p{
+    font-family: Poppins-Regular;
+}
+
+.detaille-dowload h5{
+    font-family: Poppins-Regular;
+}
+
+.unesco h3{
+    font-size: 20px;
+}
+
+.ig-ig{
+    align-items: center;
+     justify-content: center;
+     margin: 15px 35px 15px 35px;
+     display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: Poppins-Black;
+    src: url(../font/POPPINS/Poppins-Black.ttf);
+}
+@font-face {
+    font-family: Poppins-Medium;
+    src: url(../font/POPPINS/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: Poppins-Regular;
+    src: url(../font/POPPINS/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: Poppins-BoldItalic;
+    src: url(/font/Poppins-BoldItalic.ttf);
+}
+@font-face {
+    font-family: Poppins-Light;
+    src: url(../font/POPPINS/Poppins-Light.ttf);
+}
